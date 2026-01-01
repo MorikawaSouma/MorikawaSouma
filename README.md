@@ -1,6 +1,5 @@
 # 
 
-```
 <div align="center">
   
 # 👋 Hello, I'm Mori Souma!
@@ -109,7 +108,6 @@ Here are some resources I'm using in my quantitative finance journey:
 </div>
 
 ## 📊 Weekly Development Breakdown
-```
 
 
 Quantitative Finance Learning:
