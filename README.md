@@ -111,7 +111,6 @@ Here are some resources I'm using in my quantitative finance journey:
 ## 📊 Weekly Development Breakdown
 ```
 
-text
 
 Quantitative Finance Learning:
 
