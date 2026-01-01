@@ -4,8 +4,8 @@
 
 **编程学习者 | GitHub新手 | 技术爱好者**
 
-[![GitHub](https://img.shields.io/badge/GitHub-主页-181717?style=for-the-badge&logo=github)](https://github.com/你的用户名)
-[![Email](https://img.shields.io/badge/邮箱联系-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:你的邮箱)
+[![GitHub](https://img.shields.io/badge/GitHub-主页-181717?style=for-the-badge&logo=github)](https://github.com/MorikawaSouma)
+[![Email](https://img.shields.io/badge/邮箱联系-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvzixun810519@gmail.com)
 
 </div>
 
@@ -22,13 +22,13 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MorikawaSouma&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MorikawaSouma&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MorikawaSouma&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=你的用户名&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=MorikawaSouma&color=blue)
 
 </div>
 
@@ -46,13 +46,9 @@
 
 ## 📌 置顶项目
 
-这里会显示你钉选的仓库，要钉选仓库请到GitHub主页点击"Customize your pins"
-
 ## 📈 最近动态
 
-<!-- 如果你开始有更多活动，可以添加动态展示 -->
 
----
 
 <div align="center">
 
