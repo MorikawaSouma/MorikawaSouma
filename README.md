@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# 👋 Hello, I'm Mori Souma!
+# 👋 Hello, I'm Morikawa Sōma!
 
 **Quantitative Finance Learner | Python Enthusiast | GitHub Beginner**
 
