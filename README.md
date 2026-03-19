@@ -5,7 +5,7 @@
 > 对机器学习、模型实验与开源协作感兴趣，喜欢用小项目记录学习过程并分享实践成果。
 
 <p align="center">
-  <img src="profile_header.png" alt="Profile Header" width="80%">
+<img src="./profile_header.png" alt="profile header" width="80%"/>
 </p>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=MorikawaSouma.MorikawaSouma" alt="visitor badge">
